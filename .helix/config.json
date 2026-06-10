@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "admin": [
+      "Vinay.Kumar52@ibm.com"
+    ],
+    "publish": [
+      "Vinay.Kumar52@ibm.com"
+    ],
+    "preview": [
+      "Vinay.Kumar52@ibm.com"
+    ],
+    "live": [
+      "Vinay.Kumar52@ibm.com"
+    ],
+    "write": [
+      "Vinay.Kumar52@ibm.com"
+    ]
+  }
+}
