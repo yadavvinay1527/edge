@@ -1,0 +1,16 @@
+{
+  "paths": {
+    "mappings": [
+      "/content/edge/:/",
+      "/content/dam/edge/:/media/"
+    ],
+    "includes": [
+      "/content/edge/",
+      "/content/dam/edge/"
+    ],
+    "excludes": [
+      "/content/edge/**/drafts/**",
+      "*.xml"
+    ]
+  }
+}
